@@ -8,4 +8,4 @@ Frode Eika Sandnes and Evelyn Eika. 2023. A Visualization Bookmarklet for Assess
 
 To use, ensure you install the bookmarklet, go to the page to be analyzed and apply the bookmarklet.
 
-Note that this is work in progress.
+Note that this is experimental software and represents work in progress.
